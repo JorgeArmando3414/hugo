@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diseño de interfaces web on Ejemplo para el uso de idiomas</title>
-    <link>https://example.org/dise%C3%B1o_interfaz/index.html</link>
+    <link>https://jorgearmando3414.github.io/hugo/dise%C3%B1o_interfaz/index.html</link>
     <description>Recent content in Diseño de interfaces web on Ejemplo para el uso de idiomas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 25 Sep 2023 09:44:39 +0200</lastBuildDate><atom:link href="https://example.org/dise%C3%B1o_interfaz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 09:44:39 +0200</lastBuildDate><atom:link href="https://jorgearmando3414.github.io/hugo/dise%C3%B1o_interfaz/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
