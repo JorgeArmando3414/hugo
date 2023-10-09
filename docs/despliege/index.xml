@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Despliege de aplicaciones web on Ejemplo para el uso de idiomas</title>
+    <link>https://example.org/despliege/index.html</link>
+    <description>Recent content in Despliege de aplicaciones web on Ejemplo para el uso de idiomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 25 Sep 2023 09:43:25 +0200</lastBuildDate><atom:link href="https://example.org/despliege/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

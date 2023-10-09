@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ejemplo para el uso de idiomas</title>
+    <link>https://example.org/index.html</link>
+    <description>Recent content on Ejemplo para el uso de idiomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 25 Sep 2023 09:44:39 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diseño de interfaces web</title>
+      <link>https://example.org/dise%C3%B1o_interfaz/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 09:44:39 +0200</pubDate>
+      <guid>https://example.org/dise%C3%B1o_interfaz/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Desarrollo web en entorno cliente</title>
+      <link>https://example.org/desarrollo_cliente/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 09:44:12 +0200</pubDate>
+      <guid>https://example.org/desarrollo_cliente/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Desarrollo web en entorno servidor</title>
+      <link>https://example.org/desarrollo_servidor/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 09:44:00 +0200</pubDate>
+      <guid>https://example.org/desarrollo_servidor/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://example.org/markdown/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 09:43:45 +0200</pubDate>
+      <guid>https://example.org/markdown/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Despliege de aplicaciones web</title>
+      <link>https://example.org/despliege/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 09:43:25 +0200</pubDate>
+      <guid>https://example.org/despliege/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>https://example.org/personal/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 09:38:19 +0200</pubDate>
+      <guid>https://example.org/personal/index.html</guid>
+      <description>Attachments ficheros d1.txt (0 B) d2.txt (0 B) Badge Prueba PruebaPrueba Consejo Aviso
+Button Prueba Expand Expandeme&amp;hellip; &amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip; Expand me&amp;hellip; No need to press you! Icon Include Inlude incluye otros archivos .md dentro de la pagina actual, pueden contener lenguaje markdown y sera tenido en cuenta al cargar el contenido de la pagina.
+Math $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$Mermaid graph LR; If --&amp;gt; Then Then --&amp;gt; Else --- title: Example Diagram --- graph LR; A[Hard edge] --&amp;gt;|Link text| B(Round edge) B --&amp;gt; C{&amp;lt;strong&amp;gt;Decision&amp;lt;/strong&amp;gt;} C --&amp;gt;|One| D[Result one] C --&amp;gt;|Two| E[Result two] Notice There may be pirates It is all about the boxes.</description>
+    </item>
+  </channel>
+</rss>

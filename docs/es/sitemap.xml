@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/dise%C3%B1o_interfaz/index.html</loc>
+    <lastmod>2023-09-25T09:44:39+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/index.html</loc>
+    <lastmod>2023-09-25T09:44:39+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/desarrollo_cliente/index.html</loc>
+    <lastmod>2023-09-25T09:44:12+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/desarrollo_servidor/index.html</loc>
+    <lastmod>2023-09-25T09:44:00+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/markdown/index.html</loc>
+    <lastmod>2023-09-25T09:43:45+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/despliege/index.html</loc>
+    <lastmod>2023-09-25T09:43:25+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/personal/index.html</loc>
+    <lastmod>2023-09-25T09:38:19+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/categories/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/categories/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/tags/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/tags/index.html" />
+  </url>
+</urlset>
