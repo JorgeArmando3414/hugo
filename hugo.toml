@@ -1,0 +1,69 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+defaultContentLanguage = 'es'
+title = 'Jorge'
+theme = 'relearn'
+
+[params]
+  # Change default color scheme with a variant one.
+  themeVariant = [ "relearn-dark", "relearn-light", "neon", "learn", "zen-light", "zen-dark" ]
+  mermaidInitialize = "{ \"theme\": \"dark\" }"
+  mermaidZoom = true
+
+ [[languages.es.menu.main]]
+    name = "Otros"
+    weight = 50
+    url = "https://github.com/google/docsy/"
+ [[languages.en.menu.main]]
+    name = "Other"
+    weight = 50
+    url = "https://github.com/google/docsy/"
+
+[Languages]
+   [Languages.es]
+      title = "Ejemplo para el uso de idiomas"
+      weight = 1
+      languageName = "Español"
+  [Languages.en]
+      title = "Example use language"
+      weight = 2
+      languageName = "English"
+ [Languages.fr]
+      title = "Exemple d'utilisation des langues"
+      weight = 3
+      languageName = "Français"
+
+
+[markup]
+  [markup.highlight]
+    # line numbers in a table layout will shift if code is wrapping, so better
+    # use inline; besides that visually both layouts have the same look and behavior
+    lineNumbersInTable = false
+
+    # if `guessSyntax = true`, there will be no unstyled code even if no language
+    # was given BUT Mermaid and Math codefences will not work anymore! So this is a
+    # mandatory setting for your site if you want to use Mermaid or Math codefences
+    guessSyntax = false
+
+    # the shipped variants come with their own modified chroma syntax highlightning
+    # style which is imported in theme-relearn-light.css, theme-relearn-dark.css, etc.;
+    # if you want to use a predefined style instead:
+    # - remove `noClasses` or set `noClasses = true`
+    # - set `style` to a predefined style name
+    noClasses = false
+    # style = "tango"
+
+    [[menu.shortcuts]]
+    name = "Lenguaje php"
+    url = "http://php.net"
+    weight= "10"
+
+    [[menu.shortcuts]]
+    name = "Wiki educator"
+    url = "http://es.wikieducator.org"
+    weight= "10"
+
+    [[menu.shortcuts]]
+    name = "Git"
+    url = "http://github.com"
+    weight= "10"
