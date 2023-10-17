@@ -43,6 +43,28 @@
       <description></description>
     </item>
     <item>
+      <title>Ejercicio 2</title>
+      <link>https://jorgearmando3414.github.io/hugo/ejercicio2/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 09:38:19 +0200</pubDate>
+      <guid>https://jorgearmando3414.github.io/hugo/ejercicio2/index.html</guid>
+      <description>Generadores de sitios web estáticos VUEPRESS Es un generador de sitios web estáticos que permite incrustar contenido dinámico en archivos Markdown usando componentes Vue para producir páginas HTML estáticas.
+https://vuepress.vuejs.org/
+PELICAN Es un generador de sitios web estáticos hecho en python que no necesita de base de datos.
+https://getpelican.com/
+JEKYLL Es un generador de sitios web estáticos de codigo libre hecho en Ruby que no necesita de base de datos.</description>
+    </item>
+    <item>
+      <title>Ejercicio 2</title>
+      <link>https://jorgearmando3414.github.io/hugo/ejercicio_2/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 09:38:19 +0200</pubDate>
+      <guid>https://jorgearmando3414.github.io/hugo/ejercicio_2/index.html</guid>
+      <description>Generadores de sitios web estáticos VUEPRESS Es un generador de sitios web estáticos que permite incrustar contenido dinámico en archivos Markdown usando componentes Vue para producir páginas HTML estáticas.
+https://vuepress.vuejs.org/
+PELICAN Es un generador de sitios web estáticos hecho en python que no necesita de base de datos.
+https://getpelican.com/
+JEKYLL Es un generador de sitios web estáticos de codigo libre hecho en Ruby que no necesita de base de datos.</description>
+    </item>
+    <item>
       <title>Personal</title>
       <link>https://jorgearmando3414.github.io/hugo/personal/index.html</link>
       <pubDate>Mon, 25 Sep 2023 09:38:19 +0200</pubDate>
