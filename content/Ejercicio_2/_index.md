@@ -9,7 +9,7 @@ mermaidZoom = true
 ## Generadores de sitios web estáticos
 
 {{% notice style="green" title="VUEPRESS" %}}
-Es un generador de sitios web estáticos que permite incrustar contenido dinámico en archivos Markdown usando componentes Vue para producir páginas HTML estáticas.
+Es un generador de sitios web estáticos  que permite incrustar contenido dinámico en archivos Markdown usando componentes Vue para producir páginas HTML estáticas.
 
 https://vuepress.vuejs.org/
 {{% /notice %}}
